@@ -1,0 +1,110 @@
+.footer-container{
+    background-color: black;
+    color: white;
+    padding-bottom: 20px;
+}
+
+.link-container{
+    display: flex;
+    justify-content: space-around;
+    
+    margin: 40px 20px 0 20px;
+    padding-top: 40px;
+}
+
+.order h3,
+.about h3,
+.policies h3,
+.visit h3{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.order a,
+.about a,
+.policies a,
+.visit a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    font-size: 11px;
+}
+
+.apple-play{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.apple{
+    margin-right: 20px;
+}
+
+.play img{
+    height: 40px;
+}
+
+.footer-feedback{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.feedback p,
+.feedback button{
+    display: inline-block;
+}
+
+.feedback p{
+    font-size: 14px;
+    line-height: 21px;
+    margin-left: 120px;
+}
+
+.feedback button{
+    border: solid white;
+    font-size: 17px;
+    font-weight: 400;
+    border-radius: 5px;
+    padding: 10px 12px;
+    margin-left: 20px;
+}
+
+.social-media{
+    display: flex;
+    justify-content: space-evenly;
+    width: 200px;
+    
+}
+
+.social{
+    margin-right: 200px;
+}
+
+.social p{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.media img{
+    height: 20px;
+}
+
+.copywright-slogan{
+    font-size: 12px;
+    margin: 30px 100px 0 100px;
+    text-align: center;
+    line-height: 20px;
+    color: gray;
+}
+
+.slogan,
+.copywright{
+    font-size: 12px;
+    margin-top: 10px;
+    text-align: center;
+    line-height: 20px;
+    color: gray;
+}
+
